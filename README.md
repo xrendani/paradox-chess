@@ -6,7 +6,7 @@ Welcome to Paradox Chess, a chess game that defies logic but is difficult to mas
 
 You can play Paradox Chess online by visiting the following link:
 
-[Play Paradox Chess](https://v0-chess-difficulty-levels.vercel.app)
+[Play Paradox Chess](https://xrendani.github.io/paradox-chess)
 
 ## About the Game
 
@@ -24,7 +24,7 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/mkblane/paradox-chess.git
+    git clone https://github.com/xrendani/paradox-chess.git
     ```
 
 2. Navigate to the project directory:
@@ -44,4 +44,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or inquiries, please contact [mkblane](https://github.com/mkblane).
+For any questions or inquiries, please contact [mkblane](https://github.com/xrendani).
