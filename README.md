@@ -1,4 +1,4 @@
-# Paradox Chess
+# Paradox Chess ♟
 
 Welcome to Paradox Chess, a chess game that defies logic but is difficult to master!
 
