@@ -12,12 +12,6 @@ You can play Paradox Chess online by visiting the following link:
 
 Paradox Chess offers a unique twist to the traditional game of chess, introducing new rules and challenges that will test your strategic thinking and adaptability.
 
-## Project Structure
-
-- `index.html`: The main HTML file that embeds the game.
-- `styles.css`: The CSS file for styling the game page.
-- `script.js`: The JavaScript file for adding custom functionality to the game page.
-
 ## Getting Started
 
 To set up the project locally, follow these steps:
